@@ -25,7 +25,7 @@ const JRUANO = {
   code: [JavaScript, TypeScript, Sass, CSS, HTML5, Java],
   frameworks: [Angular, Node, Spring Boot, Maven],
   libraries: [RxJs, Angular Material, JQuery],
-  BDs: [MongoDB, MySql]
+  BDs: [MongoDB, MySql],
   IDs: [VSCode, Spring],
   design: [Photoshop],
   patterns: [MVVM, MVC]

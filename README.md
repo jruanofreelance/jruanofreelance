@@ -11,17 +11,12 @@ I have developed projects for different companies, in which I have been able to 
 I have also worked with Back technologies such as NodeJs, MongoDB, Java, SpringBoot, maven, REST since someone has to bring us the desired data to the Front. 😉
 
 <p>
-<em>My personal WebSite: <a href="https://www.jruano.com" target="_blank">jruano.com</a>
-</em></p>
-
-<p>
-<img align='left' src="./assets/linkedin.png" width="60"> <a href="https://www.linkedin.com/in/javierruano" target="_blank"></a>
+<em>My personal WebSite: <a href="https://www.jruano.com" target="_blank">jruano.com</a></em>
+<br/>
+<em><a href="https://www.linkedin.com/in/javierruano" target="_blank">Linkedin</a></em>
+<br/>
+<em><a href="https://twitter.com/jruanofreelance" target="_blank">Twitter</a></em>
 </p>
-
-<p>
-<img align='left' src="./assets/twitter.png" width="60"> <a href="https://twitter.com/jruanofreelance" target="_blank"></a>
-</p>
-
 
 ### A little code information about me...  
 

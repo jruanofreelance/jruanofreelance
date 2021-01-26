@@ -14,9 +14,13 @@ I have also worked with Back technologies such as NodeJs, MongoDB, Java, SpringB
 <em>My personal WebSite: <a href="https://www.jruano.com" target="_blank">jruano.com</a>
 </em></p>
 
-[![Linkedin: javierruano](./assets/linkedin.png&link=https://www.linkedin.com/in/javierruano)](https://www.linkedin.com/in/javierruano)
+<p>
+<img align='left' src="./assets/linkedin.png" width="60"> <a href="https://www.linkedin.com/in/javierruano" target="_blank"></a>
+</p>
 
-[![Twitter: jruanofreelance](./assets/twitter.png&link=https://twitter.com/jruanofreelance)](https://twitter.com/jruanofreelance)
+<p>
+<img align='left' src="./assets/twitter.png" width="60"> <a href="https://twitter.com/jruanofreelance" target="_blank"></a>
+</p>
 
 
 ### A little code information about me...  

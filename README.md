@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name is Javi and at 37 years old I am still fascinated by technology and teamwork. Currently, working through Agile methodology with the latest technologies such as Angular, TypeScript, RxJs, Angular Material, Sass, HTML5, JSON ... in which I am comfortable on the Front development side. Not forgetting the old but great JavaScript, jQuery that I learned from the beginning.
+My name is Javi and at 40 years old I am still fascinated by technology and teamwork. Currently, working through Agile methodology with the latest technologies such as Angular, TypeScript, RxJs, Angular Material, Sass, HTML5, JSON ... in which I am comfortable on the Front development side. Not forgetting the old but great JavaScript, jQuery that I learned from the beginning.
 
 I have developed projects for different companies, in which I have been able to work side by side with great professionals, developing from small applications to large projects in which version control ("Thanks Git for arriving! 😀") is essential, working from the technical designs to layout and full application development from scratch.
 
